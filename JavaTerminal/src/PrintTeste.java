@@ -38,7 +38,7 @@ public class PrintTeste {
 		aset.add(new Copies(1));
 	*/
 		//aset.add(Sides.TWO_SIDED_LONG_EDGE);
-		//aset.add(Finishings.STAPLE);
+		//aset.add(Fi nishings.STAPLE);
 		
 		/* locate a print service that can handle it */
 		PrintService pservices =
